@@ -5,15 +5,15 @@ const workshop_date = `November, 2024`
 
 const talk_speaker_details = {
   'cf': ['Chelsea Finn', './assets/images/talks/chelsea_finn.jpg', 'Assistant Professor', 'Stanford University', '', '', ''],
-  'xw': ['Xiaolong Wang', './assets/images/talks/xiaolong_wang.jpg', 'Associate Professor', 'Carnegie Mellon University', '', '', ''],
-  'jb': ['Jeannette Bohg', './assets/images/talks/jeannette_bohg.png', 'Research Scientist', 'Meta AI', '', '', ''],
-  'ai': ['Auke Ijspeert', './assets/images/talks/auke_ijspeert.jpg', 'Research Scientist', 'Meta AI', '', '', ''],
-  'sl': ['Sergey Levine', './assets/images/talks/sergey_levine.jpg', 'Professor', 'University of Michigan', '', '', ''],
-  'lw': ['Lorenz Wellhausen', './assets/images/talks/lorenz_wellhausen.jpeg', 'Assistant Professor', 'Swiss-Mile', '', '', ''],
+  'xw': ['Xiaolong Wang', './assets/images/talks/xiaolong_wang.jpg', 'Assistant Professor', 'Carnegie Mellon University', '', '', ''],
+  'jb': ['Jeannette Bohg', './assets/images/talks/jeannette_bohg.png', 'Assistant Professor', 'Stanford University', '', '', ''],
+  'ai': ['Auke Ijspeert', './assets/images/talks/auke_ijspeert.jpg', 'Full Professor', 'EPFL', '', '', ''],
+  'sl': ['Sergey Levine', './assets/images/talks/sergey_levine.jpg', 'Associate Professor', 'UC Berkeley', '', '', ''],
+  'lw': ['Lorenz Wellhausen', './assets/images/talks/lorenz_wellhausen.jpeg', 'Research Scientist', 'Swiss-Mile', '', '', ''],
   'dh': ['David Hoeller', './assets/images/talks/david-hoeller.jpg', 'Research Scientist', 'NVIDIA', '', '', ''],
-  'yk': ['Young Min Kim', './assets/images/talks/youngmin_kim.jpeg', 'Assistant Professor', '', '', '', ''],
+  'yk': ['Young Min Kim', './assets/images/talks/youngmin_kim.jpeg', 'Associate Professor', 'Seoul National University', '', '', ''],
   'dp': ['Deepak Pathak', './assets/images/talks/deepak_pathak.jpg', 'Assistant Professor', 'Carnegie Mellon University', '', '', ''],
-  'nh': ['Nicolas Heess', './assets/images/talks/nicolas_heess.jpg', 'Research Scientist', 'Carnegie Mellon University', '', '', ''],
+  'nh': ['Nicolas Heess', './assets/images/talks/nicolas_heess.jpg', 'Research Scientist', 'Google-DeepMind', '', '', ''],
   'gc': ['Georgia Chalvatzaki (tentative)', './assets/images/talks/Georgia-Chalvatzaki.jpg', 'Full Professor', 'TU Darmstadt', 'https://irosalab.com/people/georgia-chalvatzaki/', 'Tentative', ''],
 }
 
