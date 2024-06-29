@@ -92,7 +92,7 @@ $(document).ready(function () {
   $('#project-name').html(`${proj_small_caps}${project_name} ${conference_details[0].split(' ').join('')}`)
   $('#conference-details').html(`
   <a href="${conference_details[1]}" target="_blank">
-  <img src="${conference_details[3]}" width="300px" height="300px">
+  <img src="${conference_details[3]}" width="1900px" height="300px">
   <p class="is-2"><i class="fas fa-map-marker-alt" aria-hidden="true"></i>
   ${conference_details[2]}</p>
   </a>`)
